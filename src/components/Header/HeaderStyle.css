@@ -1,0 +1,35 @@
+.header{
+    display: flex;
+    font-family: 'Monserat',sans-serif;
+    font-style: normal;
+    color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 41px;
+    padding-left: 370px;
+}
+.header-name{
+    flex-basis: 35%;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 143%;
+}
+.address{
+    flex-basis: 30%;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 12px;
+}
+.number{
+    flex-basis: 30%;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+.address svg{
+    padding-right: 14.64px;
+}
+.number svg{
+    padding-right: 13px;
+}

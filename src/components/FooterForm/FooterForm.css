@@ -1,0 +1,119 @@
+.footer-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #081130;
+  align-items: center;
+  padding-bottom: 80px;
+}
+.futer-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  padding: 70px 150px 70px 150px;
+  border-radius: 8px;
+}
+.futer-form-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 133%;
+  color: #2e363e;
+  margin: 0px;
+}
+.futer-form-text {
+  margin: 0px;
+  padding-top: 12px;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 143%;
+  letter-spacing: -0.2px;
+  color: #2e363e;
+}
+.futer-input {
+  position: relative;
+  padding-top: 36.5px;
+}
+.input {
+  padding: 32px 190px 29px 58px;
+  background-color: #f2f6fa;
+  border: none;
+  border-radius: 8px;
+}
+input::placeholder {
+  font-weight: 400;
+  font-size: 15px;
+  color: #7e868e;
+  line-height: 160%;
+}
+.icon-phone {
+  position: absolute;
+  left: 20px;
+  bottom: 27px;
+}
+.futer-btn {
+  margin-left: 20px;
+  padding: 26px 89px 26px 89px;
+  background-color: #fed84c;
+  border-radius: 8px;
+  border: none;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 152%;
+  color: #2e363e;
+}
+.futer-checkbox {
+  padding-top: 25px;
+  display: flex;
+  align-items: center;
+}
+label {
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 130%;
+  color: #7e868e;
+}
+.futer-links {
+  padding-top: 32px;
+  display: flex;
+  gap: 43px;
+  align-items: center;
+}
+.futer-links a {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  text-align: right;
+  color: #7e868e;
+  text-decoration: none;
+}
+.futer-company-information {
+  padding-top: 22px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #7e868e;
+}
+.footer_berry_1 {
+  position: absolute;
+  top: 200px;
+  right: 300px;
+}
+.footer_berry_2 {
+  position: absolute;
+  top: 500px;
+  left: 280px;
+}
+.footer_leaf_1 {
+  position: absolute;
+  top: 200px;
+  left: 340px;
+}
+.footer_leaf_2 {
+  position: absolute;
+  top: 520px;
+  right: 280px;
+}

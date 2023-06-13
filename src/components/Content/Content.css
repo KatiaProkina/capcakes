@@ -1,0 +1,30 @@
+.content-container {
+  position: relative;
+  background-color: #081130;
+  position: relative;
+}
+.content-item {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 84px;
+}
+.content-item-discription {
+  align-self: center;
+}
+.content-container-img-bottom {
+  position: absolute;
+  top: 950px;
+}
+.content-phone {
+  display: inline-block;
+}
+.content_berry {
+  position: absolute;
+  right: 200px;
+  top: 400px;
+}
+.content_leaf {
+  position: absolute;
+  left: 200px;
+  top: 500px;
+}
